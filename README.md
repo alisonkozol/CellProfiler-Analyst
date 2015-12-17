@@ -16,10 +16,10 @@ Distributed under the GPLv2.
 
 ## Mailing list
 
-CellProfiler Analyst development is discussed on the cpa-dev mailing
-list.  This is a fairly low-volume mailing list.  To subscribe:
+In December 2015, we discontinued the CPA mailing list. 
 
-> https://groups.google.com/a/broadinstitute.org/d/forum/cpa-dev
+For all questions and comments related to CPA, please post to [CellProfiler-Analyst Forum](http://forum.cellprofiler.org/c/cpa-dev)
+
 
 ## How to file new issues
 
